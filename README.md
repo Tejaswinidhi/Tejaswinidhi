@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web developing
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me lpriya5221@gmail.com
+-    Find me in www.lathapriyas.com
 
 <!---
 Tejaswinidhi/Tejaswinidhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
