@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejaswinidhi
+- 👋 Hi, I’m @Priya
 - 👀 I’m interested in Web Developing/Designing
 - 🌱 I’m currently learning Web developing
 - 💞️ I’m looking to collaborate on Development
