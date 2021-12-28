@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "product_name": "women Top/Kurtas",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 200,
+        "Size": "Small",
+        "Image": "https://ibb.co/vwsXqDb",
+        "Color": "Maroon",
+        "Brand": "Veromoda"
+    },
+    {
+        "id": 4,
+        "product_name": "Sofaset",
+        "category": "Furniture",
+        "category_id": 4,
+        "Price": 15500,
+        "Size": "5 seater",
+        "Image": "https:/ibb.co/q9PKpXJ",
+        "Color": "Blue",
+        "Brand": "Royaloak"
+    },
+    {
+        "id": 2,
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 30000,
+        "Image": "https://ibb.co/7JvRYnd", 
+        "Color": "Blue",
+        "company": "Lenovo"
+    },
+    {
+        "id": 3,
+        "product_name": "WindowCurtains",
+        "category": "Home",
+        "category_id": 3,
+        "Price": 4000,
+        "Image":"https://ibb.co/QQfBfj6",
+        "Color": "Black",
+        "company": "Homeside"
+    }
+]
